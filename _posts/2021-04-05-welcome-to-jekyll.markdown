@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-04-05 23:51:02 -0400
 categories: jekyll update
