@@ -21,11 +21,14 @@
 title: Jasmine
 email: jcn66@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio site!
+  Connect with me or visit my github for more details!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jasminecng9999
+
+author: Jasmine Ng 
+linkedin_username: jasminecng99
 
 # Build settings
 # Removed minima theme but copied the base files of it and will edit it
