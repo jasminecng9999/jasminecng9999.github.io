@@ -25,22 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-author_profile: true
 author: Jasmine Ng
 github_username:  jasminecng9999
 linkedin_username: jasminecng99
-avatar: "images/mypicture.jpg"
 # Build settings
 # Removed minima theme but copied the base files of it and will edit it
 # theme: minima
 plugins:
   - jekyll-feed
 
-sidebar:
-  - title: "Title"
-    image: images/mypicture.jpg
-    image_alt: "image"
-    text: "Some text here."
 
 
 # Exclude from processing.
