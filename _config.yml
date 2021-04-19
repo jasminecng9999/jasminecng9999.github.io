@@ -36,6 +36,12 @@ avatar: "images/mypicture.jpg"
 plugins:
   - jekyll-feed
 
+sidebar:
+  - title: "Title"
+    image: images/mypicture.jpg
+    image_alt: "image"
+    text: "Some text here."
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
