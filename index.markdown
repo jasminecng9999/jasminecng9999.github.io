@@ -6,5 +6,3 @@ layout: default
 title: About Me
 permalink: /
 ---
-
-[]!(images/mypicture.jpg)
