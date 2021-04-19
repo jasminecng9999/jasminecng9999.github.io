@@ -5,7 +5,7 @@ date:   2019-12-18 23:51:02 -0400
 categories: jekyll update
 ---
 
-An academic group project
+An academic project
 
 Jekyll also offers powerful support for code snippets:
 
