@@ -14,6 +14,7 @@ permalink: /
   .firsthalfrow{
     flex-wrap: wrap;
     width: 25%;
+    position: relative;
   }
   .secondhalfrow{
     flex-wrap: wrap;
@@ -25,6 +26,12 @@ permalink: /
   .centerthis{
     text-align: center;
   }
+  img {
+    position: absolute;
+    right: 0;
+    max-width: 100%;
+    max-height: 100%;
+  }
 </style>
 
 <div class="row">
@@ -32,8 +39,8 @@ permalink: /
     <img src="/assets/images/mypicture.jpg">
     </div>
     <div class="secondhalfrow">
-    <p class="bio">Hello, I'm Jasmine! Welcome to my website where you can learn about my academic interests, and past side and academic projects!
-    Here is a rundown of my passion, work experience, and leadership experience:</p>
+    <p class="bio">Hello, I'm Jasmine! Welcome to my website where you can learn about my academic interests, and past projects! Currently, I am a M.Eng student at Cornell University studying Operations Research Engineering with a concentration in Data Analytics. During this program, I am working with The Home Depot to analyze and model their e-commerce dataset. In the upcoming summer, I will be working with Nestle USA as a digital analytics intern.
+    Here is a rundown of my passion, and past work experience:</p>
     </div>
 </div>
 <div class="centerthis">
@@ -71,9 +78,8 @@ permalink: /
   Python, SQL, Web-programming languages, and my knowledge of operations research methods and statistics
   in the context of consumer experience and e-commerce business applications. Feel free to contact me via email
   at jcn66@cornell.edu or visit https://github.com/jasminecng9999 to view my work in more detail!</p>
-</p>
 <div class="centerthis">
   <h1>Resume</h1>
 </div>
-<iframe src="/assets/images/resumeweb.pdf" width="100%" height="500px"></iframe>
+<iframe src="/assets/images/resumeweb.pdf" width="100%" height="100%"></iframe>
 <!-- <a target="_blank" rel="noopener" class="noCrossRef" href="/assets/images/resumeweb.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Download Resume</button></a> -->
