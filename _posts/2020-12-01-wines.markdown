@@ -23,7 +23,7 @@ To look at the code in more detail, check out my [github repo](https://github.co
 
 I analyzed the [dataset](http://www3.dsi.uminho.pt/pcortez/wine/) provided by Paulo Cortez, an Associate Professor at the University of Minho, along with several other individuals (António Cerdeira, Fernando Almeida, Telmo Matos, José Reis) and the Viticulture Commission of the Vinho Verde Region.
 
-There are 6497 total instances in this dataset. Each instance represents a wine and it's properties, which are its physiochemical qualities and its rating. Therre is only one type of instance here.
+There are 6497 total instances in this dataset. Each instance represents a wine and it's properties, which are its physiochemical qualities and its rating. There is only one type of instance here.
 
 ## Data Preprocessing
 
