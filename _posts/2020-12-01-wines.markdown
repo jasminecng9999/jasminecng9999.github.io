@@ -211,7 +211,7 @@ coeff_df = pd.DataFrame(model.coef_,columns=X_features)
 coeff_df
 {% endhighlight %}
 
-![](/assets/images/wine_n.png "report for opt logistic")
+![](/assets/images/wine_nn.png "report for opt logistic")
 
 Since the data has been normalized and that all the features are under the same scale, I can confidently claim that from the magnitude of the regression coefficients that is at least greater than 0.2, alcohol, wine color, sulphates, total sulfur dioxide, residual sugar, and chlorides have great influential power in predicting wine rating. Density and pH seem to not have much of an influence in swaying the rating of the wine that's predicted by the model.
 
