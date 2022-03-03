@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time Series Forecasting on Weather Data (Ongoing)"
+title:  "Time Series Forecasting on Weather Data"
 date:   2021-04-10 23:51:02 -0400
 categories: jekyll update
 ---
